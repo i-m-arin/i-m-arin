@@ -8,10 +8,12 @@ Sophomore @ Dept. of Information Technology, IIEST, Shibpur
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
+<!--
 <a href="https://drive.google.com/file/d/1bOCzg5n2gz0x1i8YebIBgFRepbG7uz1n/view?usp=sharing">
 <img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
 </img>
 </a>
+--!>
 
 <a href="mailto:imarindam2000@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img>
